@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 dr-gareth-roberts/blog-template-nov23 is built on the following main stack:
+
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
 - [Netlify](https://www.netlify.com/) – Static Web Hosting
@@ -10,11 +11,13 @@ dr-gareth-roberts/blog-template-nov23 is built on the following main stack:
 - [Prettier](https://prettier.io/) – Code Review
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 dr-gareth-roberts/blog-template-nov23 is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
@@ -23,14 +26,15 @@ dr-gareth-roberts/blog-template-nov23 is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dr-gareth-roberts/blog-template-nov23](https://github.com/dr-gareth-roberts/blog-template-nov23)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|11/10/23 <br/>Report generated|
+|17<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -143,18 +147,20 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (4)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (6)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (4)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (6)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v6.7.4|10/09/23|Daniel |BSD-2-Clause|N/A|
 |[eslint-plugin-jsx-a11y](https://www.npmjs.com/eslint-plugin-jsx-a11y)|v6.7.1|10/09/23|Daniel |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|08/30/23|Daniel |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v14.0.1|10/09/23|Daniel |MIT|N/A|
 |[slugify](https://www.npmjs.com/slugify)|v1.6.6|10/09/23|Daniel |MIT|N/A|
 |[tailwindcss](https://www.npmjs.com/tailwindcss)|v3.3.3|10/09/23|Daniel |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
